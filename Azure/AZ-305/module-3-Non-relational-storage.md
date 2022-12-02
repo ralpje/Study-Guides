@@ -1,4 +1,4 @@
- AZ-305 Reference links
+AZ-305 Reference links
 
 ## Module 2 - Non-relations storage
 ### [Exam Page](https://docs.microsoft.com/learn/certifications/exams/az-305)

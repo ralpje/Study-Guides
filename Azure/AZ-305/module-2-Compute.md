@@ -45,6 +45,7 @@
 [Relativity, an e-discovery company, is using Azure functions to identify and resolve performance issues](https://customers.microsoft.com/story/relativity-partner-professional-services-azure)
 
 ### Azure Logic Apps
+
 [Azure Logic App](https://azure.microsoft.com/services/logic-apps)
 
 [Azure Integration Services](https://azure.microsoft.com/product-categories/integration/)
