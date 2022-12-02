@@ -8,22 +8,23 @@
 
 ![Compute Decision Tree](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/images/compute-choices.png "Compute Decision Tree")
 
-[Windows Virtual Machines in Azure](https://docs.microsoft.com/azure/virtual-machines/windows/overview)
-
+### Virtual Machines
 [Windows virtual machines in Azure](https://docs.microsoft.com/azure/virtual-machines/windows/overview)
 
-[Windows virtual machines in Azure](https://docs.microsoft.com/azure/virtual-machines/linux/overview)
+[Linux virtual machines in Azure](https://docs.microsoft.com/azure/virtual-machines/linux/overview)
 
 [What is Azure Batch?](https://docs.microsoft.com/azure/batch/batch-technical-overview)
 
 [Best practices - Azure Batch](https://docs.microsoft.com/azure/batch/best-practices)
 
+### Azure Container Instances
 [Azure Container Instances](https://docs.microsoft.com/azure/container-instances/container-instances-overview)
 
 [Security considerations for container instances](https://docs.microsoft.com/azure/container-instances/container-instances-image-security)
 
 [Containers vs. virtual machines](https://docs.microsoft.com/virtualization/windowscontainers/about/containers-vs-vm)
 
+### Azure Kubernets Services
 [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/learn/modules/intro-to-kubernetes/2-what-is-kubernetes)
 
 [What is AKS](https://docs.microsoft.com/azure/aks/intro-kubernetes)
@@ -32,6 +33,7 @@
 
 [Cluster operator and developer best practices to build and manage applications on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/azure/aks/best-practices)
 
+### Azure Functions
 [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview)
 
 [Azure Functions code samples](https://docs.microsoft.com/samples/browse/?expanded=azure&languages=csharp&products=azure-functions)
@@ -42,6 +44,7 @@
 
 [Relativity, an e-discovery company, is using Azure functions to identify and resolve performance issues](https://customers.microsoft.com/story/relativity-partner-professional-services-azure)
 
+### Azure Logic Apps
 [Azure Logic App](https://azure.microsoft.com/services/logic-apps)
 
 [Azure Integration Services](https://azure.microsoft.com/product-categories/integration/)
