@@ -1,6 +1,6 @@
 # AZ-305 Reference links
 
-## Module 2 - Application Architecture
+## Module 5 - Application Architecture
 ### [Exam Page](https://docs.microsoft.com/learn/certifications/exams/az-305)
 
 ### Messages and Events

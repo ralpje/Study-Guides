@@ -1,6 +1,6 @@
 # AZ-305 Reference links
 
-## Module 2 - Data integration
+## Module 5 - Data integration
 ### [Exam Page](https://docs.microsoft.com/learn/certifications/exams/az-305)
 
 [Available features in ADF & Azure Synapse Analytics](https://docs.microsoft.com/azure/synapse-analytics/data-integration/concepts-data-factory-differences#available-features-in-adf--azure-synapse-analytics
