@@ -1,6 +1,6 @@
 # AZ-305 Reference links
 
-## Module 9 - Business Continuity
+## Module 10 - Business Continuity
 ### [Exam Page](https://docs.microsoft.com/learn/certifications/exams/az-305)
 
 ### Backup and recovery
